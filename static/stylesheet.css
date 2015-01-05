@@ -1,7 +1,7 @@
 body {
     margin: 50px 50px 0 50px;
     max-width: 27em;
-    overflow: hidden;
+    overflow: auto;
     font: 20px 'Hoefler Text','Times New Roman', Times, serif;
     line-height: 30px;
     color: #333;
