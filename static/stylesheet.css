@@ -84,6 +84,6 @@ li{
 }
 */
 
-.sep + .sep:before {
+.we_help span + span:before {
     content: ':: ';
 }
